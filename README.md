@@ -1,3 +1,6 @@
+v2ray一键脚本备份地址
+bash <(curl -s -L https://raw.githubusercontent.com/kaige2/v2ray/master/v2ray.sh)
+
 # v2ray
 最好用的 V2Ray 一键安装脚本 &amp; 管理脚本
 
